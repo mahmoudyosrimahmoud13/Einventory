@@ -1,0 +1,9 @@
+C:\Users\my13r\source\repos\inventory\inventory\bin\publish\inventory.exe
+C:\Users\my13r\source\repos\inventory\inventory\bin\publish\inventory.dll
+C:\Users\my13r\source\repos\inventory\inventory\bin\publish\inventory.deps.json
+C:\Users\my13r\source\repos\inventory\inventory\bin\publish\inventory.runtimeconfig.json
+C:\Users\my13r\source\repos\inventory\inventory\bin\publish\inventory.pdb
+C:\Users\my13r\source\repos\inventory\inventory\bin\publish\CircularProgressBar_NET5.dll
+C:\Users\my13r\source\repos\inventory\inventory\bin\publish\System.Data.SqlClient.dll
+C:\Users\my13r\source\repos\inventory\inventory\bin\publish\WinFormAnimation_NET5.dll
+C:\Users\my13r\source\repos\inventory\inventory\bin\publish\sni.dll
